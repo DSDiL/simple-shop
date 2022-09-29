@@ -1,0 +1,30 @@
+.container-sm {
+    background-color: aliceblue;
+}
+
+.row.row.g-4.justify-content-center {
+    margin: 2%;
+}
+
+#button {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+#td1 {
+    text-align: center;
+    width: 30%;
+
+}
+
+#td2 {
+    text-align: center;
+    width: 30%;
+}
+
+#td3 {
+    text-align: center;
+    width: 30%;
+
+}
